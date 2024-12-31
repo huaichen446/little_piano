@@ -3,7 +3,7 @@
 
 An online piano simulator based on Web Audio API, featuring auto-play functionality with The Beatles' "Hey Jude" as the demo song.
 
-##Features
+## Features
 
 -🎹 Interactive piano keyboard interface
 -🎼 Auto-play "Hey Jude" (including melody and chord accompaniment)
@@ -11,14 +11,14 @@ An online piano simulator based on Web Audio API, featuring auto-play functional
     -Mouse click and slide
     -Keyboard shortcuts control
 
-##Technical Implementation
+## Technical Implementation
 
 -Pure vanilla JavaScript, no external dependencies
 -Sound synthesis using Web Audio API
 -CSS3 animations
 -Responsive design, supporting various screen sizes
 
-##Live DemoTry it online 
+## Live DemoTry it online 
 [Live DemoTry it online](#) <!-- https://huaixiaohao.serv00.net/ -->
 
 ## Contributing
