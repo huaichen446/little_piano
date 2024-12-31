@@ -18,8 +18,8 @@ An online piano simulator based on Web Audio API, featuring auto-play functional
 - CSS3 animations
 - Responsive design, supporting various screen sizes
 
-## Live DemoTry it online 
-[Live DemoTry it online](#) <!-- https://huaixiaohao.serv00.net/ -->
+## Live DemoTry  
+[try it online](#) https://huaixiaohao.serv00.net
 
 ## Contributing
 
