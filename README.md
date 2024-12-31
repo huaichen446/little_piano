@@ -5,18 +5,18 @@ An online piano simulator based on Web Audio API, featuring auto-play functional
 
 ## Features
 
--🎹 Interactive piano keyboard interface
--🎼 Auto-play "Hey Jude" (including melody and chord accompaniment)
-=🎛️ Multiple interaction methods:
+- 🎹 Interactive piano keyboard interface
+- 🎼 Auto-play "Hey Jude" (including melody and chord accompaniment)
+- 🎛️ Multiple interaction methods:
     -Mouse click and slide
     -Keyboard shortcuts control
 
 ## Technical Implementation
 
--Pure vanilla JavaScript, no external dependencies
--Sound synthesis using Web Audio API
--CSS3 animations
--Responsive design, supporting various screen sizes
+- Pure vanilla JavaScript, no external dependencies
+- Sound synthesis using Web Audio API
+- CSS3 animations
+- Responsive design, supporting various screen sizes
 
 ## Live DemoTry it online 
 [Live DemoTry it online](#) <!-- https://huaixiaohao.serv00.net/ -->
