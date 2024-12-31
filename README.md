@@ -1,5 +1,5 @@
 # Web Piano
-![Web Piano Screenshot]![image](https://github.com/user-attachments/assets/784e33ee-9661-4989-a6d2-02020eed91a8)
+![image](https://github.com/user-attachments/assets/784e33ee-9661-4989-a6d2-02020eed91a8)
 
 An online piano simulator based on Web Audio API, featuring auto-play functionality with The Beatles' "Hey Jude" as the demo song.
 
@@ -31,8 +31,6 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 4. Push to the branch: `git push origin feature/NewFeature`
 5. Submit a pull request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
